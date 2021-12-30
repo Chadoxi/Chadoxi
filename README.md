@@ -24,4 +24,4 @@ Discord: Chadoxi#0001
 
 ![YouTube](https://img.shields.io/badge/Chadoxi-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) https://youtube.com/c/chadoxisupreme
 
-![YouTube](https://no.com)
+![YouTube](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
