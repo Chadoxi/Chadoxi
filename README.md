@@ -2,7 +2,7 @@
 > HELLO U
 ```
 
-<img align="left" src="https://cdn.discordapp.com/attachments/681422909050322964/926202881416241172/MOSHED-2021-12-30-20-59-21.gif" alt="No" width="320" /> 
+<img align="left" src="https://cdn.discordapp.com/attachments/681422909050322964/926203140494204928/3svw12.jpg" alt="No" width="320" /> 
 
 ```csharp
 chadoxi@synapse-discord.fr
