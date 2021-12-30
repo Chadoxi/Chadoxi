@@ -22,4 +22,6 @@ Discord: Chadoxi#0001
 
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white) https://paypal.me/synapsefr
 
-![XING](https://img.shields.io/badge/no-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)
+![YouTube](https://img.shields.io/badge/Chadoxi-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) https://youtube.com/c/chadoxisupreme
+
+![YouTube](https://no.com)
