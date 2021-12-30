@@ -17,3 +17,5 @@ Hobbies: Sport, Gaming
 Games: Destiny 2, Minecraft, Sea Of Thieves 
 Discord: Chadoxi#0001
 ```
+
+![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white) https://twitch/tv/Chadoxi
