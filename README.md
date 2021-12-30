@@ -20,8 +20,10 @@ Discord: Chadoxi#0001
 
 [I'm the owner of a french certified Discord bot named Synapse, click here to join the support server!](https://discord.gg/a5B3Z6U6r3)
 
-![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white) https://twitch.tv/Chadoxi
+[Need to talk with me ? Contact me here!](mailto:chadoxi@synapse-discord.fr)
 
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white) https://paypal.me/synapsefr
+![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white) [Twitch](https://twitch.tv/Chadoxi)
 
-![YouTube](https://img.shields.io/badge/Chadoxi-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) https://youtube.com/c/chadoxisupreme
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white) [PayPal](https://paypal.me/synapsefr)
+
+![YouTube](https://img.shields.io/badge/Chadoxi-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) [YouTube](https://youtube.com/c/chadoxisupreme)
