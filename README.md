@@ -2,7 +2,7 @@
 > HELLO U
 ```
 
-<img align="left" src="https://popcat.click/twitter-card.jpg" alt="No" width="320" /> 
+<img align="left" src="https://cdn.discordapp.com/attachments/681422909050322964/926200663694798928/MOSHED-2021-12-30-20-50-35.gif" alt="No" width="320" /> 
 
 ```csharp
 chadoxi@synapse-discord.fr
