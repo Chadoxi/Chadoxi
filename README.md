@@ -18,4 +18,8 @@ Games: Destiny 2, Minecraft, Sea Of Thieves
 Discord: Chadoxi#0001
 ```
 
-![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white) https://twitch/tv/Chadoxi
+![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white) https://twitch.tv/Chadoxi
+
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white) https://paypal.me/synapsefr
+
+![XING](https://img.shields.io/badge/no-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)
