@@ -9,8 +9,7 @@ chadoxi@synapse-discord.fr
 -------------------------
 Pronouns: He/Him
 Location: France
-Languages: JavaScript, Python,
-           HTML, CSS
+Languages: Node.js, Python
 Learning: Node.js, Python, Flutter,
           HTML,
 Hobbies: Sport, Gaming
