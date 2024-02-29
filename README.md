@@ -23,6 +23,6 @@ Discord: Chadoxi#0001
 
 ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white) [Twitch](https://twitch.tv/Chadoxi)
 
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white) [PayPal](https://paypal.me/synapsefr)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white) [PayPal]([https://paypal.me/synapsefr](https://paypal.me/synapsediscordfr?country.x=FR&locale.x=fr_FR))
 
 ![YouTube](https://img.shields.io/badge/Chadoxi-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) [YouTube](https://youtube.com/c/chadoxisupreme)
