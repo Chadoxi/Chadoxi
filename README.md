@@ -2,7 +2,7 @@
 > HELLO U
 ```
 
-<img align="left" src="https://cdn.discordapp.com/attachments/681422909050322964/926203140494204928/3svw12.jpg" alt="No" width="320" /> 
+<img align="left" src="https://cdn.discordapp.com/attachments/834029841493393429/1212756051875856434/GokuBlackJumpscare.png?ex=65f2fe16&is=65e08916&hm=388032839d7bb4f3e1eccf00e634fd43d1f94bcbb06840f6ca4ffa108d7bad71" alt="No" width="320" /> 
 
 ```csharp
 chadoxi@synapse-discord.fr
