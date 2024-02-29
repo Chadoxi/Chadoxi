@@ -14,7 +14,7 @@ Learning: Node.js, Python, Flutter,
           HTML,
 Hobbies: Sport, Gaming
 Games: Destiny 2, Minecraft, Sea Of Thieves 
-Discord: Chadoxi#0001
+Discord: Chadoxi
 ```
 
 [I'm the owner of a french certified Discord bot named Synapse, click here to join the support server!](https://discord.gg/a5B3Z6U6r3)
